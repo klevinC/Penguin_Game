@@ -1,6 +1,6 @@
 var canvas;
 var canvasWidth = 600;
-var canvasHeight = 600;
+var canvasHeight = 420;
 var level = 1;
 
 var menu = false;	//reset to true when finished
